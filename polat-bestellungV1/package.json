@@ -1,0 +1,16 @@
+{
+  "name": "polat-bestellung",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.0",
+    "next": "^16.4.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
